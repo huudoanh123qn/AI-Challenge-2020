@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AI-Challenge-2020
 =======
 ## Artificial intelligence application solutions in Ho Chi Minh City 2020
@@ -44,4 +43,3 @@ The models should be in the lath: /save_models
 To running, using command cmd:
 
 		bash ./run.sh
->>>>>>> f514d5954b3bcf5dc026f73719b522c69d868c8b
