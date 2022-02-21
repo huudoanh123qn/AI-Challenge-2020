@@ -43,3 +43,7 @@ The models should be in the lath: /save_models
 To running, using command cmd:
 
 		bash ./run.sh
+
+### 5.Result
+
+![Result](https://user-images.githubusercontent.com/52884083/154944407-a4765c91-b2aa-4c67-abcd-f16b1340ee03.jpg)
